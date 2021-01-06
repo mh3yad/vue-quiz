@@ -1,12 +1,14 @@
 # quiz
 
-[logo]: 1.png
-![alt text](1.png "sample")
 
 -----
 
 [logo]: 2.png
 ![alt text](2.png "sample page")
+
+---
+[logo]: 1.png
+![alt text](1.png "sample")
 
 ## Project setup
 ```
