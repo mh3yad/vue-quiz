@@ -1,5 +1,13 @@
 # quiz
 
+[logo]: img/1.png
+![alt text](img/1.png "sample")
+
+-----
+
+[logo]: img/2.png
+![alt text](img/2.png "sample page")
+
 ## Project setup
 ```
 npm install
